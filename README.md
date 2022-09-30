@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billygatti
 - 👀 I’m interested in backend web dev.
 - 🌱 I’m currently learning django.
-- 💞️ I’m looking to collaborate on projets.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me? You can do so via email at billygatti@yahoo.com
 
 <!---
